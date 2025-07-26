@@ -132,7 +132,7 @@ To better communicate the findings from the analysis, several key visualizations
 
 A huge thank you to the entire team at Celebal for this incredible learning opportunity and to my mentors for their guidance.
 
-👨‍🏫 **Jash Tewani & Ajit Kumar Singh** – Technical Mentor  
+👨‍🏫 **Jash Tewani, Anurag Yadav & Ajit Kumar Singh** – Technical Mentor  
 🙌 **Prerna Kamat** – HR, Celebal CSI  
 🙌 **Priyanshi Jain** – HR, Celebal CSI  
 🏢 **Celebal Technologies** – For providing a platform to work on real-world data engineering challenges.
