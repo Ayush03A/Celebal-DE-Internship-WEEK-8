@@ -85,19 +85,15 @@ To better communicate the findings from the analysis, several key visualizations
 📸 **Evidence:**
 - ✅ Raw DataFrame showing the initial nested structure of the `courses` column.
 
-  ![Raw Data](./json-flattening-pipeline/screenshots/json-screenshot-1-raw-data.png)
+  ![Raw Data](https://github.com/Ayush03A/Celebal-DE-Internship-WEEK-8/blob/828d7b7b816b96d109ac0c3985d190c375869a4f/json-flattening-pipeline/Screenshots/Raw%20Data%20Loaded.png)
   
 - ✅ Final DataFrame after the `explode` and `select` transformations, showing a perfectly flat schema.
 
-  ![Flattened Data](./json-flattening-pipeline/screenshots/json-screenshot-2-flattened-data.png)
-  
-- ✅ Screenshot of one of the `Missing cloud file system scheme` errors encountered, demonstrating a real-world debugging process.
-
-  ![Error Screenshot](./json-flattening-pipeline/screenshots/json-screenshot-3-error.png)
+  ![Flattened Data](https://github.com/Ayush03A/Celebal-DE-Internship-WEEK-8/blob/828d7b7b816b96d109ac0c3985d190c375869a4f/json-flattening-pipeline/Screenshots/Flattened%20Data.png)
   
 - ✅ Final success message and verification output confirming that a true **EXTERNAL** table was created.
 
-  ![Final Table](./json-flattening-pipeline/screenshots/json-screenshot-4-final-table.png)
+  ![Final Table](https://github.com/Ayush03A/Celebal-DE-Internship-WEEK-8/blob/828d7b7b816b96d109ac0c3985d190c375869a4f/json-flattening-pipeline/Screenshots/Final%20Table%20Created.png)
 
 ---
 
