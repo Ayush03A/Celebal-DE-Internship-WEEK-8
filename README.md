@@ -40,19 +40,32 @@ This project demonstrates core data engineering and big data analytics skills us
 
 - ✅ Cluster is up and running in the Databricks environment.
 
-  ![Cluster Running](./nyc-taxi-analysis/screenshots/taxi-screenshot-1-cluster.png)
+  ![Cluster Running](https://github.com/Ayush03A/Celebal-DE-Internship-WEEK-8/blob/be92f5f87adaa6c4d9ef9fe086aa3da8540f1167/nyc-taxi-analysis/Screenshots/Cluster%20is%20up%20and%20running%20in%20the%20Databricks%20environment.png)
   
 - ✅ Raw CSV data successfully uploaded to a Unity Catalog Volume.
   
-  ![Data in Volume](./nyc-taxi-analysis/screenshots/taxi-screenshot-2-volume.png)
+  ![Data in Volume](https://github.com/Ayush03A/Celebal-DE-Internship-WEEK-8/blob/be92f5f87adaa6c4d9ef9fe086aa3da8540f1167/nyc-taxi-analysis/Screenshots/Uploading%20yellow_tripdata_2020-01.Csv....png)
   
 - ✅ Output of a complex query (e.g., Most Popular Routes) showing successful data joining and aggregation.
 
-  ![Query Result](./nyc-taxi-analysis/screenshots/taxi-screenshot-3-query-result.png)
+  ![Query Result](https://github.com/Ayush03A/Celebal-DE-Internship-WEEK-8/blob/be92f5f87adaa6c4d9ef9fe086aa3da8540f1167/nyc-taxi-analysis/Screenshots/%20Query%206%20(Most%20Popular%20Route).png)
   
 - ✅ Final, enriched table visible and queryable in the Catalog Explorer.
 
-  ![Final Table](./nyc-taxi-analysis/screenshots/taxi-screenshot-4-final-table.png)
+  ![processed_taxi_data](https://github.com/Ayush03A/Celebal-DE-Internship-WEEK-8/blob/be92f5f87adaa6c4d9ef9fe086aa3da8540f1167/nyc-taxi-analysis/Screenshots/processed_taxi_data.png)
+
+
+### 📊 Data Visualization & Dashboard
+
+To better communicate the findings from the analysis, several key visualizations were created to form a dashboard. These charts highlight important trends and patterns in the data at a glance, turning raw query results into actionable insights.
+
+| Visualization & Insight                                      | Screenshot                                                                            |
+| :----------------------------------------------------------- | :------------------------------------------------------------------------------------ |
+| **Daily Fare vs. Distance Trends** <br> *Shows a clear positive correlation between trip distance and fare amount, with some variation by day of the week.* | ![Fare vs Distance](https://github.com/Ayush03A/Celebal-DE-Internship-WEEK-8/blob/be92f5f87adaa6c4d9ef9fe086aa3da8540f1167/nyc-taxi-analysis/Screenshots/Daily%20Fare%20Trends%20by%20Day%20of%20Week.png)      |
+| **Pickup Hour Distribution** <br> *Visualizes the number of taxi rides starting at each hour, revealing daily and weekly demand cycles and a noticeable dip around the end of January.* | ![Pickup Distribution](https://github.com/Ayush03A/Celebal-DE-Internship-WEEK-8/blob/be92f5f87adaa6c4d9ef9fe086aa3da8540f1167/nyc-taxi-analysis/Screenshots/Pickup%20Hour%20Distribution.png)  |
+| **Dropoff Hour Distribution** <br> *Similar to pickups, this chart shows when trips typically end, confirming the overall ride patterns and demand flow throughout the day.* | ![Dropoff Distribution](https://github.com/Ayush03A/Celebal-DE-Internship-WEEK-8/blob/be92f5f87adaa6c4d9ef9fe086aa3da8540f1167/nyc-taxi-analysis/Screenshots/Dropoff%20Hour%20Distribution.png) |
+| **Route Trip Attribution** <br> *A tabular view identifying the most frequent routes (by ID), which is essential for understanding high-traffic corridors and operational planning.* | ![Top Routes](https://github.com/Ayush03A/Celebal-DE-Internship-WEEK-8/blob/be92f5f87adaa6c4d9ef9fe086aa3da8540f1167/nyc-taxi-analysis/Screenshots/Route%20Revenue%20Attribution.png)         |
+
 
 ---
 
